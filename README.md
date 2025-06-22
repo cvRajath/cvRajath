@@ -2,6 +2,6 @@
 - 👀 I’m interested in UI/UX Design, Frontend Development, and Creative Digital Experiences  
 - 🌱 I’m currently learning advanced prototyping in Figma and frontend frameworks like Angular  
 - 💞️ I’m looking to collaborate on design systems, portfolio projects, and open-source UI kits  
-- 📫 Reach me at: rajathcv.design@gmail.com  
+- 📫 Reach me at: rajathcv001@gmail.com  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I started as an illustrator and now design full web/app interfaces with code!
